@@ -1,2 +1,2 @@
 # LinearRegression
-Solving different problems connected to linear regression and regularization
+Solving different problems related to linear regression and regularization
